@@ -1,2 +1,53 @@
-# customer_behavior-_analysis-
-Customer shopping behavior analysis using Python, Pandas, MySQL, and Power BI with interactive dashboards and business insights.
+# Customer Shopping Behavior Analysis
+
+## Project Overview
+This project analyzes customer shopping behavior using Python, Pandas, MySQL, and Power BI to identify purchasing trends, customer preferences, and sales insights.
+
+---
+
+## Objectives
+- Analyze customer purchase patterns
+- Identify high-performing product categories
+- Understand customer spending behavior
+- Create interactive dashboards for business insights
+
+---
+
+## Technologies Used
+- Python
+- Pandas
+- Jupyter Notebook
+- MySQL
+- Power BI
+
+---
+
+## Project Workflow
+1. Data Collection
+2. Data Cleaning using Pandas
+3. SQL Analysis using MySQL
+4. Exploratory Data Analysis (EDA)
+5. Data Visualization
+6. Dashboard Creation in Power BI
+
+---
+
+## Key Insights
+- Top-selling product categories identified
+- Customer spending trends analyzed
+- Seasonal shopping patterns observed
+- Revenue contribution by category visualized
+
+---
+
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## Files Included
+- `customer_analysis.ipynb` → Python analysis
+- `customer_queries.sql` → SQL queries
+- `shopping_dashboard.pbix` → Power BI dashboard
+- `shopping_data.csv` → Dataset
