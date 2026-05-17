@@ -42,8 +42,6 @@ This project analyzes customer shopping behavior using Python, Pandas, MySQL, an
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
-
 ---
 
 ## Files Included
